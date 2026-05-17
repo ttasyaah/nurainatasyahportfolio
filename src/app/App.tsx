@@ -99,7 +99,7 @@ export default function App() {
         "E-Commerce website in web development class project",
       tags: ["Web Development", "UI/UX", "HTML"],
       image:
-        "https://r2.fivemanage.com/akhIrCmcgT65A6d5uYuPy/hoppyhealthadventure.png",
+        "https://r2.fivemanage.com/akhIrCmcgT65A6d5uYuPy/mysportecommerce.png",
     },
   ];
 
